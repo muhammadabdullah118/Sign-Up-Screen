@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Second App</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="recaptcha">Enter reCAPTCHA</string>
+    <string name="recaptchaData">1234</string>
+    <string name="signupButton">SignUp</string>
+
+    <string name="hello_blank_fragment">First fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+</resources>
